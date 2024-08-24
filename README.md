@@ -1,0 +1,1 @@
+Kubernetes manifests for deploying [LLDAP](https://github.com/lldap/lldap).
